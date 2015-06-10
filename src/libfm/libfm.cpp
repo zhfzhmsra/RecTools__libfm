@@ -56,7 +56,7 @@
 #include "src/fm_learn_sgd_element_adapt_reg.h"
 #include "src/fm_learn_mcmc_simultaneous.h"
 
-
+//zhfzh
 using namespace std;
 
 int main(int argc, char **argv) { 
